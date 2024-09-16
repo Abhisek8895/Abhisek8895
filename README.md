@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Mishra</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek8895&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek8895" /> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, Machine Learning**
